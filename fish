@@ -1,5 +1,5 @@
 ["AAA",
-"Samskara1",
+"Strannik37",
 "vasia1996",
 "Criptoref90",
 "Demon5913",
